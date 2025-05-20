@@ -121,8 +121,8 @@ cols=<number_of_columns>
 
 The `autorun.sh` script performs comprehensive tests with both large and small matrices, showing successful operations for compatible matrices:
 
-<!-- Insert autorun.sh results image here -->
-![Autorun Results](./autorun_results.png)
+<img width="768" alt="Screenshot 2025-05-20 at 10 12 09" src="https://github.com/user-attachments/assets/d6c25e42-0d70-464e-bfc1-d7f13902cea6" />
+
 
 
 
@@ -130,8 +130,8 @@ The `autorun.sh` script performs comprehensive tests with both large and small m
 
 The `test.sh` script shows how the system handles large matrices with dimension mismatches:
 
-<!-- Insert test.sh results image here -->
-![Test Results](./test_results.png)
+<img width="690" alt="Screenshot 2025-05-20 at 10 14 12" src="https://github.com/user-attachments/assets/0c7d57c5-7527-4763-b35d-7c7d9ed1d652" />
+
 
 Note the dimension validation:
 ```
