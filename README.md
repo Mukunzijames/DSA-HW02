@@ -34,7 +34,7 @@ dsa-matrix/
 
 ## Usage Options
 
-### 1. Interactive Mode
+### 1. Interactive Mode !
 
 Run the interactive application that prompts for file paths and operation:
 
